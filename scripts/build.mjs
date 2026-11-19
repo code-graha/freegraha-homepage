@@ -134,7 +134,7 @@ write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
         <image:image>
-            <image:loc>${SITE}assets/og/og-home.png</image:loc>
+            <image:loc>${SITE}assets/og/og-home.jpg</image:loc>
         </image:image>
     </url>
 </urlset>

@@ -44,7 +44,7 @@ The FAQ appears twice in `index.html`: once as visible HTML (`#faq`) and once as
 | `sitemap.xml` | Generated |
 | `llms.txt` | Generated plain-text summary for AI assistants ([llmstxt.org](https://llmstxt.org)) |
 | `site.webmanifest`, `assets/icon-*.png` | App icons |
-| `assets/og/og-home.png` | 1200×630 social share image |
+| `assets/og/og-home.jpg` | 1200×630 social share image |
 | `404.html` | Not-found page (`noindex`) |
 
 ## Local preview
