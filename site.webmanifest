@@ -1,0 +1,16 @@
+{
+    "name": "freegraha.in — Projects built by WebGraha",
+    "short_name": "freegraha",
+    "description": "Free subdomains for websites and apps designed and built by WebGraha.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "browser",
+    "background_color": "#0a1128",
+    "theme_color": "#0a1128",
+    "lang": "en",
+    "icons": [
+        { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+        { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+        { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+    ]
+}

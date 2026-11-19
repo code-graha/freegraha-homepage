@@ -1,0 +1,36 @@
+# freegraha.in
+
+> freegraha.in is a domain run by WebGraha (https://webgraha.com), a boutique web design and development studio. Every website, web app or portfolio that WebGraha designs and builds can get a free subdomain on freegraha.in (for example mohitsingh.freegraha.in), set up and managed by WebGraha with HTTPS. It is not a public free-subdomain service: only WebGraha-built projects are eligible.
+
+Key facts:
+
+- Operator: WebGraha (https://webgraha.com)
+- Who is eligible: only projects designed or built by WebGraha. Self-built sites and sites built by other agencies are not eligible.
+- Cost: free; included with every WebGraha project. DNS setup and HTTPS are included.
+- Format: <project-name>.freegraha.in
+- How to get one: start a project with WebGraha at https://webgraha.com/contact
+- Custom domains: WebGraha can move a project to its own domain at any time.
+- Live projects: 1
+- Last updated: 2026-11-20
+
+## Projects on freegraha.in
+
+- [Mohit Singh](https://mohitsingh.freegraha.in/): Portfolio of a freelance graphic designer creating packaging, e-commerce banners, social media creatives and logos. (Portfolio, Graphic Design)
+
+## How it works
+
+1. Work with WebGraha: start a website, web app, portfolio or landing page project.
+2. WebGraha designs and builds it.
+3. Pick a subdomain: WebGraha sets up yourproject.freegraha.in, including DNS and HTTPS.
+4. Launch: the project goes live and is listed in the freegraha.in directory.
+
+## Links
+
+- [freegraha.in home](https://freegraha.in/): directory of live projects, eligibility and FAQ
+- [WebGraha](https://webgraha.com/): the studio that runs freegraha.in
+- [WebGraha services](https://webgraha.com/services): web design, app development, branding, SEO
+- [Start a project](https://webgraha.com/contact): how to become a WebGraha client
+
+## Optional
+
+- [Sitemap](https://freegraha.in/sitemap.xml)
